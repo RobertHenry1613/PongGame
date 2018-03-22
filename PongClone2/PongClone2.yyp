@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "13e06438-ff2a-457d-8a4d-ebaff5c60b03",
+            "Value": {
+                "id": "b3e6e7b2-7000-4939-bffd-47e2de03995e",
+                "resourcePath": "fonts\\fntMain\\fntMain.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "1576482f-07f1-4c04-b4c2-eb9dff108f95",
             "Value": {
                 "id": "7802c3df-2d12-4e33-94f6-119119f2e6f4",
@@ -103,11 +111,27 @@
             }
         },
         {
+            "Key": "51a9b6ec-7a2b-453e-a11a-f65b14fc8f17",
+            "Value": {
+                "id": "f6151756-63a3-4fe0-8803-abdebde540d1",
+                "resourcePath": "rooms\\rmP2Win\\rmP2Win.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "5bd7d13a-5a80-4a84-9374-c03cd68aece4",
             "Value": {
                 "id": "a936f74c-7d74-4802-b61d-07228533e451",
                 "resourcePath": "views\\5bd7d13a-5a80-4a84-9374-c03cd68aece4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5fae4516-ab83-4364-9aec-554fc52acacf",
+            "Value": {
+                "id": "787fbf05-b5de-4bde-8e65-0eff3e099ada",
+                "resourcePath": "rooms\\rmP1Win\\rmP1Win.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -135,11 +159,27 @@
             }
         },
         {
+            "Key": "879a2aab-0aaf-4199-8ed7-9c092f8e78cf",
+            "Value": {
+                "id": "2f17069a-69b3-4205-b9d4-258ff6b4b0fe",
+                "resourcePath": "objects\\objP1WinText\\objP1WinText.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8c324406-a0c1-4325-95c8-61d45ef1a2e5",
             "Value": {
                 "id": "327975be-744f-4a4d-8cde-ca260fcd2561",
                 "resourcePath": "views\\8c324406-a0c1-4325-95c8-61d45ef1a2e5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ab7f48ba-c473-46f4-9e41-8f978482c7c5",
+            "Value": {
+                "id": "a91ffe64-d68c-480a-8c50-dc0cc04833c2",
+                "resourcePath": "objects\\objP2WinText\\objP2WinText.yy",
+                "resourceType": "GMObject"
             }
         },
         {
