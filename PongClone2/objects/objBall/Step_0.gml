@@ -17,12 +17,12 @@ if (x <= 0) || (x >= 1024)      // 0 is the left side of screen, 1024 is right s
 
 
 	//Check if winning score is reached, if so show new room (win message)
-	if (global.player1_score = 10)	//change this number to 10 after testing
+	if (global.player1_score = 5)	//change this number to 10 after testing
 	{
 		room_goto(rmP1Win)
 	}
 	
-	if (global.player2_score = 10)	//change this number to 10 after testing
+	if (global.player2_score = 5)	//change this number to 10 after testing
 	{
 		room_goto(rmP2Win)
 	}
